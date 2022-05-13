@@ -8,3 +8,4 @@ Work in progress
 
 ## External Help
 You have support.
+Thank you for your support.
